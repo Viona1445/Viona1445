@@ -1,31 +1,24 @@
 <h1 align="center">Hi 👋 I'm Viona Asya Arinda</h1>
 
 <p align="center">
-Software Engineer • Web & Mobile Developer
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+%26+Mobile+Developer;React+%7C+NodeJS+%7C+Python;Welcome+to+my+GitHub!" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Informatics Engineering Student at **Mulawarman University**
-- 💻 Experienced in **Web & Mobile Application Development**
-- 🚀 Building apps using **React, Node.js, Kotlin**
-- 📱 Experience developing **Android & iOS apps**
-- 🎨 Also interested in **UI/UX Design (Figma)**
+🎓 Informatics Engineering Student at **Mulawarman University**
 
----
+💻 Software Engineer experienced in **Web & Mobile Development**
 
-## 🛠 Tech Stack
+🚀 Building applications using **React, Node.js, Kotlin**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+📱 Experience developing **Android & iOS applications**
+
+🎨 Interested in **UI/UX Design (Figma)**
+
+🌱 Currently learning **Fullstack Development**
 
 ---
 
@@ -34,25 +27,63 @@ Software Engineer • Web & Mobile Developer
 🌐 Website  
 https://vionasyarinda14.vercel.app
 
-📂 GitHub  
-https://github.com/Viona1445
-
 💼 LinkedIn  
 https://linkedin.com/in/viona-asya-arinda
 
----
-
-## 📊 GitHub Stats
-
-![Viona GitHub stats](https://github-readme-stats.vercel.app/api?username=Viona1445&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viona1445&layout=compact&theme=tokyonight)
+📂 GitHub  
+https://github.com/Viona1445
 
 ---
 
-## 📫 Contact Me
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,firebase,git,github,figma,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Viona1445&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viona1445&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Viona1445&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 📫 Contact Me
 
 📧 Email  
-vionaasya04@gmail.com
+vionaasya04@gmail.com  
 
 📍 Samarinda, Indonesia
+
+---
+
+⭐ From [Viona1445](https://github.com/Viona1445)
